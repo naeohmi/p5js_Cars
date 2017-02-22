@@ -1,7 +1,7 @@
 //A collaborative work between: Sean, Eric Vargas, and Hassan
 var cars = [];
-var sign = new Array("Go!", "")
-var carspeed = 4
+var sign = new Array("Go!", "")// creating an array to print a message "GO
+v"ar carspeed = 4
 
 // creating a literal object that sets a random shape fill. 
 var rgb = {
